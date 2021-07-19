@@ -3,4 +3,5 @@ module.exports = {
     'vuetify',
   ],
   publicPath: '/carsharing-ru/',
+  outputDir: 'docs',
 };
