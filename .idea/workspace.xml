@@ -7,6 +7,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EditorConfigPreviewManager">
+    <editorConfig file="$PROJECT_DIR$/frontend/.editorconfig" previewFile="$PROJECT_DIR$/frontend/vue.config.js" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -30,7 +33,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -38,7 +41,17 @@
       <recent name="C:\Users\Professional\Desktop\carsharing\frontend\src\assets" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/frontend/package.json" />
       <command value="run" />
@@ -51,6 +64,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.serve" />
       </list>
     </recent_temporary>
@@ -64,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1626599226388</updated>
       <workItem from="1626599227613" duration="34754000" />
-      <workItem from="1626711716960" duration="200000" />
+      <workItem from="1626711716960" duration="1348000" />
     </task>
     <servers />
   </component>
@@ -76,30 +90,34 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="828" y="417" key="#ESLint/0.0.1920.1050@0.0.1920.1050" timestamp="1626618858363" />
+    <state x="789" y="233" key="#EditorConfig" timestamp="1626712899619">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="789" y="233" key="#EditorConfig/0.0.1920.1050@0.0.1920.1050" timestamp="1626712899619" />
     <state x="667" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1626627147679">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="667" y="275" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1626627147679" />
-    <state width="1196" height="193" key="GridCell.Tab.0.bottom" timestamp="1626674498181">
+    <state width="1899" height="288" key="GridCell.Tab.0.bottom" timestamp="1626713070172">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1196" height="193" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1626674498181" />
-    <state width="1196" height="193" key="GridCell.Tab.0.center" timestamp="1626674498181">
+    <state width="1899" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1626713070172" />
+    <state width="1899" height="288" key="GridCell.Tab.0.center" timestamp="1626713070172">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1196" height="193" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1626674498181" />
-    <state width="1196" height="193" key="GridCell.Tab.0.left" timestamp="1626674498181">
+    <state width="1899" height="288" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1626713070172" />
+    <state width="1899" height="288" key="GridCell.Tab.0.left" timestamp="1626713070172">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1196" height="193" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1626674498181" />
-    <state width="1196" height="193" key="GridCell.Tab.0.right" timestamp="1626674498181">
+    <state width="1899" height="288" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1626713070172" />
+    <state width="1899" height="288" key="GridCell.Tab.0.right" timestamp="1626713070172">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1196" height="193" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1626674498181" />
-    <state x="551" y="224" key="SettingsEditor" timestamp="1626615815822">
+    <state width="1899" height="288" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1626713070172" />
+    <state x="551" y="224" key="SettingsEditor" timestamp="1626712890057">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="551" y="224" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1626615815822" />
+    <state x="551" y="224" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1626712890057" />
     <state x="348" y="267" width="585" height="534" key="find.popup" timestamp="1626638269225">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
